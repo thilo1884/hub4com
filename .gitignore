@@ -1,0 +1,9 @@
+*.ncb
+*.user
+*.suo
+Release
+Debug
+
+.cvsignore
+.vs
+CVS
